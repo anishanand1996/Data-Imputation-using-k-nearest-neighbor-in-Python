@@ -4,14 +4,15 @@ In this project, we perform missing data imputation in Python using 2 variants o
 Here, we compare and analyze the efficiency of these two approaches by imputing missing values in 26 datasets (numerical-16, categorical-5, mixed-5), having 44 combinations of missing values each (1144 datasets in total). The number of instances in a dataset range from 150 to 4,94,020.
 
 # Libraries Required
-1.Pandas
-2.Math
-3.Os
-4.Glob
-5.Numpy
-6.Sklearn
-7.Openpyxl
-8.Categorical_Encoders
+
+1. Pandas
+2. Math
+3. OS
+4. Glob
+5. Numpy
+6. Sklearn
+7. Openpyxl
+8. Categorial_Encoders
 
 # Code Functionality
 
