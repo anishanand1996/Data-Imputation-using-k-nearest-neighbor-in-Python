@@ -1,7 +1,7 @@
 # Data-Imputation-using-k-nearest-neighbor-in-Python
 In this project, we perform missing data imputation in Python using 2 variants of the KNN algorithm, i.e Complete case KNN and Incomplete case KNN, using Scikit Learn, Pandas and NumPy.
 
-Here, we compare and analyze the efficiency of these two approaches by imputing missing values in 26 datasets (numerical-16, categorical-5, mixed-5), having 44 combinations of missing values each (1144 datasets in total). The number of instances in a dataset range from 150 to 4,94,020.
+Here, we compare and analyze the efficiency of these two approaches by imputing missing values in [26 datasets](https://github.com/anishanand1996/Data-Imputation-using-k-nearest-neighbor-in-Python/blob/main/List%20of%20Datasets.xlsx) **(numerical-16, categorical-5, mixed-5)**, having **44** combinations of missing values each (**1144** datasets in total). The number of instances in a dataset range from **150** to **4,94,020**.
 
 # Libraries Required
 
@@ -24,7 +24,7 @@ NumPy is used to calculate the NRMS and AE values by comparing the original and 
 
 Efficiency is analyzed by comparing and visualizing the NRMS/AE values of individual datasets in both algorithms.
 
-To get more insight on how the algorithms function, checkout the [research](https://github.com/anishanand1996/Data-Imputation-using-k-nearest-neighbor-in-Python/blob/main/2014%20Jason%20Van%20Hulse%20-%20Incomplete%20case%20nearest%20neighbor%20imputation%20in%20sof%20%5Bretrieved_2022-01-28%5D.pdf) paper that I used
+*To get more insight on how the algorithms function, checkout the [research](https://github.com/anishanand1996/Data-Imputation-using-k-nearest-neighbor-in-Python/blob/main/2014%20Jason%20Van%20Hulse%20-%20Incomplete%20case%20nearest%20neighbor%20imputation%20in%20sof%20%5Bretrieved_2022-01-28%5D.pdf) paper that was used*
 
 # File Description
 
